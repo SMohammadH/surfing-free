@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/surfing-free/static/css/main.1528697d.chunk.css",
+    "main.js": "/surfing-free/static/js/main.e1370ec0.chunk.js",
+    "main.js.map": "/surfing-free/static/js/main.e1370ec0.chunk.js.map",
+    "runtime-main.js": "/surfing-free/static/js/runtime-main.3fa81f7a.js",
+    "runtime-main.js.map": "/surfing-free/static/js/runtime-main.3fa81f7a.js.map",
+    "static/css/2.b9b0b070.chunk.css": "/surfing-free/static/css/2.b9b0b070.chunk.css",
+    "static/js/2.55e6bbe0.chunk.js": "/surfing-free/static/js/2.55e6bbe0.chunk.js",
+    "static/js/2.55e6bbe0.chunk.js.map": "/surfing-free/static/js/2.55e6bbe0.chunk.js.map",
+    "index.html": "/surfing-free/index.html",
+    "static/css/2.b9b0b070.chunk.css.map": "/surfing-free/static/css/2.b9b0b070.chunk.css.map",
+    "static/css/main.1528697d.chunk.css.map": "/surfing-free/static/css/main.1528697d.chunk.css.map",
+    "static/js/2.55e6bbe0.chunk.js.LICENSE.txt": "/surfing-free/static/js/2.55e6bbe0.chunk.js.LICENSE.txt",
+    "static/media/logo.2b883cc8.svg": "/surfing-free/static/media/logo.2b883cc8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fa81f7a.js",
+    "static/css/2.b9b0b070.chunk.css",
+    "static/js/2.55e6bbe0.chunk.js",
+    "static/css/main.1528697d.chunk.css",
+    "static/js/main.e1370ec0.chunk.js"
+  ]
+}
